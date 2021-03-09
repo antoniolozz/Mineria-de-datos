@@ -10,7 +10,7 @@
 
 [PRACTICA DE LIMPIEZA DE DATOS](https://github.com/antoniolozz/Mineria-de-datos/blob/main/Ej_Limpieza_Equipo6.ipynb)
 
-[PRIMERA ENTREGA PIA](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Avance1_PIA_Equipo6.ipynb
+[PRIMERA ENTREGA PIA](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Avance1_PIA_Equipo6.ipynb)
 ## FASE II  
 
 [PRESENTACIÓN](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Presentaci%C3%B3n_K-Medias_Equipo-6.pdf)
