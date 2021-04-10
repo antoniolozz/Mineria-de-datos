@@ -20,4 +20,8 @@
 [MINI EXAMEN](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Calificaci%C3%B3n_K-Medias_Equipo-6.pdf)
 
 [MAPA MENTAL II](https://github.com/antoniolozz/Mineria-de-datos/blob/main/MapaMental_2_1847759.pdf)
+
+[PRACTICA DE VISUALIZACION](https://github.com/antoniolozz/Mineria-de-datos/blob/main/Visualizaci%C3%B3n_Equipo6.ipynb)
+
+[SEGUNDO AVANCE PIA](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/AvancePIA_II_Grupo003_Equipo6.ipynb)
 ## FASE III
