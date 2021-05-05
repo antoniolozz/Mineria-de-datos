@@ -24,6 +24,9 @@
 [PRACTICA DE VISUALIZACION](https://github.com/antoniolozz/Mineria-de-datos/blob/main/Visualizaci%C3%B3n_Equipo6.ipynb)
 
 [SEGUNDO AVANCE PIA](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/AvancePIA_II_Grupo003_Equipo6.ipynb)
+
+[SEGUNDO AVANCE PIA 2.0](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/AvancePIA_II_Grupo003_Equipo6_V2.ipynb)
+
 ## FASE III
 
 [PIA](https://github.com/VanessaCedillo19/Mineria_de_Datos/blob/main/PIA.pdf)
